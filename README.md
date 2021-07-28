@@ -49,4 +49,4 @@ The results tables are stored in the folder `./Tables/.`
 * `Table1.png`: Average Distance and Number of Nodes.
 * `Table2.png`: The Result of Artist.
 * `Table3.png`: The Rank of Artist.
-* `Table4.png`:
+* `Table4.png`: Characteristics for Different Genres.
