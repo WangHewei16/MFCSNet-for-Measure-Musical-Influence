@@ -17,6 +17,21 @@
 * `./Figure4.png`:
 * `./Figure5.png`:
 * `./Figure6.png`:
+* `./Figure7.png`:
+* `./Figure8.png`:
+* `./Figure9.png`:
+* `./Figure10.png`:
+* `./Figure11.png`:
+* `./Figure12.png`:
+* `./Figure13.png`:
+* `./Figure14.png`:
+* `./Figure15.png`:
+* `./Figure16.png`:
+* `./Figure17.png`:
+* `./Figure18.png`:
+* `./Figure19.png`:
+* `./Figure20.png`:
+* `./Figure21.png`:
 
 
 ## Table
