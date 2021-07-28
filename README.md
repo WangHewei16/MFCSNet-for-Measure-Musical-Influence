@@ -38,7 +38,7 @@ The results figures are stored in the folder ./Figures/.
 
 
 ## Table
-The results Tables are stored in the folder ./Tables/.
+The results tables are stored in the folder ./Tables/.
 * `Table1.png`:
 * `Table2.png`:
 * `Table3.png`:
