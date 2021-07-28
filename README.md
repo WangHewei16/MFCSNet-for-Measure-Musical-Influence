@@ -21,32 +21,32 @@ The dataset used in our case study can be found in the folder `./Data/.`
 
 ### Figures
 The results figures are stored in the folder `./Figures/.`
-* `Figure1.png`:
-* `Figure2.png`:
-* `Figure3.png`:
-* `Figure4.png`:
-* `Figure5.png`:
-* `Figure6.png`:
-* `Figure7.png`:
-* `Figure8.png`:
-* `Figure9.png`:
-* `Figure10.png`:
-* `Figure11.png`:
-* `Figure12.png`:
-* `Figure13.png`:
-* `Figure14.png`:
-* `Figure15.png`:
-* `Figure16.png`:
-* `Figure17.png`:
-* `Figure18.png`:
-* `Figure19.png`:
-* `Figure20.png`:
-* `Figure21.png`:
+* `Figure1.png`: The Network of Genre Influence.
+* `Figure2.png`: The Network of New Age Music (left) and Jazz Music (right).
+* `Figure3.png`: Linear Regression to verify small-world effect(left) and Count of Follower (right).
+* `Figure4.png`: Power Law Distribution.
+* `Figure5.png`: t-SNE of Cluster Result of Music Data.
+* `Figure6.png`: Heat Map of Genres and Characteristics.
+* `Figure7.png`: Visualization of Decision Tree.
+* `Figure8.png`: Time Series of Various Characteristics.
+* `Figure9.png`: Heat Map of Jaccard Similarity Coefficient Between Genres.
+* `Figure10.png`: Artists Network after Community Findings.
+* `Figure11.png`: Feature Importance.
+* `Figure12.png`: Network of Bob Dylan and Its Relative Artists.
+* `Figure13.png`: Visualization of Eigenvector Centrality.
+* `Figure14.png`: Change of Pop/Rock Artist Network (1960----1980----2000).
+* `Figure15.png`: Time Series of Popularity.
+* `Figure16.png`: Time Series of Number of Communities and Average Degree.
+* `Figure17.png`: Time Series of Average Path Length and Average Cluster Coefficient.
+* `Figure18.png`: Average Danceability of Several Genres from 1925 to 1945.
+* `Figure19.png`: Release Counts of Several Genres from 1940 to 1945.
+* `Figure20.png`: Average of Acousticness by Year.
+* `Figure21.png`: The Boom of Pop/Rock Music (1950s-1960s-1980s). Yellow edge means that the follower is a Pop/Rock artist and blue is not. The yellow part gradually occupying the main stream illustrates the booming of Pop/Rock music
 
 
 ### Tables
 The results tables are stored in the folder `./Tables/.`
-* `Table1.png`:
-* `Table2.png`:
-* `Table3.png`:
+* `Table1.png`: Average Distance and Number of Nodes.
+* `Table2.png`: The Result of Artist.
+* `Table3.png`: The Rank of Artist.
 * `Table4.png`:
