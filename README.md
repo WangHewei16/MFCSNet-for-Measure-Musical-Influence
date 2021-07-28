@@ -7,7 +7,7 @@ By utilizing the data sets of musical characteristics and links between music in
 
 ### Code
 All codes are written in `python3`.
-* `Code`: 
+* `Musical_Influence_Model`: A model that measures musical influence.
 
 
 ### Data
