@@ -1,9 +1,9 @@
-## Code
+### Code
 All codes are written in `python3`.
 * `Code`: 
 
 
-## Data
+### Data
 The dataset used in our case study can be found in the folder `./data/.`
 * `data_by_artist`: Based on full_music_data.csv, summarizing the mean values of musical features for each artist.
 * `data_by_year`: Based on full_music_data.csv, summarizing the mean values of musical features for each year from 1921 to 2020.
@@ -12,7 +12,7 @@ The dataset used in our case study can be found in the folder `./data/.`
 
 
 
-## Figure
+### Figure
 The results figures are stored in the folder `./Figures/.`
 * `Figure1.png`:
 * `Figure2.png`:
@@ -37,7 +37,7 @@ The results figures are stored in the folder `./Figures/.`
 * `Figure21.png`:
 
 
-## Table
+### Table
 The results tables are stored in the folder `./Tables/.`
 * `Table1.png`:
 * `Table2.png`:
