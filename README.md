@@ -41,7 +41,7 @@ The results figures are stored in the folder `./Figures/.`
 * `Figure18.png`: Average Danceability of Several Genres from 1925 to 1945.
 * `Figure19.png`: Release Counts of Several Genres from 1940 to 1945.
 * `Figure20.png`: Average of Acousticness by Year.
-* `Figure21.png`: The Boom of Pop/Rock Music (1950s-1960s-1980s). Yellow edge means that the follower is a Pop/Rock artist and blue is not. The yellow part gradually occupying the main stream illustrates the booming of Pop/Rock music
+* `Figure21.png`: The Boom of Pop/Rock Music (1950s-1960s-1980s). Yellow edge means that the follower is a Pop/Rock artist and blue is not. The yellow part gradually occupying the main stream illustrates the booming of Pop/Rock music.
 
 
 ### Tables
