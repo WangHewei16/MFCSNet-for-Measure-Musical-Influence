@@ -12,7 +12,7 @@ The dataset used in our case study can be found in the folder `./data/.`
 
 
 
-### Figure
+### Figures
 The results figures are stored in the folder `./Figures/.`
 * `Figure1.png`:
 * `Figure2.png`:
@@ -37,7 +37,7 @@ The results figures are stored in the folder `./Figures/.`
 * `Figure21.png`:
 
 
-### Table
+### Tables
 The results tables are stored in the folder `./Tables/.`
 * `Table1.png`:
 * `Table2.png`:
