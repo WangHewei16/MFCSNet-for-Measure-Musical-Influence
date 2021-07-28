@@ -3,6 +3,7 @@
 
 
 ## Data
+The dataset used in our case study can be found in the folder ./data/.
 * `data_by_artist`: Based on full_music_data.csv, summarizing the mean values of musical features for each artist.
 * `data_by_year`: Based on full_music_data.csv, summarizing the mean values of musical features for each year from 1921 to 2020.
 * `full_music_data`: This file includes 98,340 songs and their artist_name, artist_id and some musical features. artist_id is the same unique indentification number given in the influence_data.csv file.
