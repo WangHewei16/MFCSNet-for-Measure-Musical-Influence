@@ -7,7 +7,7 @@ By utilizing the data sets of musical characteristics and links between music in
 
 ### Code
 All codes are written in `python3`.
-* `Measure_Musical_Influence_Model`: A model that measures musical influence.
+* `Measure_Musical_Influence_Model`: A model that measures musical influence. It can discover the characteristics of the artist network such as small world effect and scale-free network. The efficient t-SNE dimensionality reduction algorithm is used before the cluster analysis of artists. Innovatively combines Jaccard similarity coefficient and cluster analysis to measure similarity. Innovatively combines community detection algorithm and machine learning method to find more contagious characteristics. It can keenly discoverconnotation of the music revolution and used anomaly detection and key node detection to find the revolutionary artists.
 
 
 ### Data
