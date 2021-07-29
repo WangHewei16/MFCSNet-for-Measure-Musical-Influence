@@ -23,7 +23,7 @@ The dataset used in our case study can be found in the folder `./Data/.`
 The results figures are stored in the folder `./Figures/.`
 * `Figure1.png`: The Network of Genre Influence. Each node represents a musician. Each directed edge represents a pair of influencer-follower.
 * `Figure2.png`: The Network of New Age Music (left) and Jazz Music (right). 
-* `Figure3.png`: Linear Regression to verify small-world effect(left) and Count of Follower (right). We take the logarithm of the number of nodes and perform a linear regression with the average distance, making this figure.
+* `Figure3.png`: Linear Regression to verify small-world effect (left) and Count of Follower (right). We take the logarithm of the number of nodes and perform a linear regression with the average distance, making this figure.
 * `Figure4.png`: Power Law Distribution. We gain the number of followers and the number of nodes for each number of followers and plot in double logarithmic coordinates.
 * `Figure5.png`: t-SNE of Cluster Result of Music Data. We use BIRCH clustering algorithm to cluster the data and visualize the result.
 * `Figure6.png`: Heat Map of Genres and Characteristics. Each grid in the figure represents the normalized average value of the corresponding characteristics of the corresponding genre.
@@ -33,8 +33,8 @@ The results figures are stored in the folder `./Figures/.`
 * `Figure10.png`: Artists Network after Community Findings. We use Louvain algorithm to find community and visualize the result.
 * `Figure11.png`: Feature Importance. We use the LightGBM as a machine learning tool to find the differences between the various characteristics of music in their influence.
 * `Figure12.png`: Network of Bob Dylan and Its Relative Artists. This figure shows artists that influnced Bob Dylan and others that followed him.
-* `Figure13.png`: Visualization of Eigenvector Centrality. 
-* `Figure14.png`: Change of Pop/Rock Artist Network (1960----1980----2000).
+* `Figure13.png`: Visualization of Eigenvector Centrality. We can detect key node via eigenvector centrality.
+* `Figure14.png`: Change of Pop/Rock Artist Network (1960----1980----2000). 
 * `Figure15.png`: Time Series of Popularity.
 * `Figure16.png`: Time Series of Number of Communities and Average Degree.
 * `Figure17.png`: Time Series of Average Path Length and Average Cluster Coefficient.
@@ -48,5 +48,5 @@ The results figures are stored in the folder `./Figures/.`
 The results tables are stored in the folder `./Tables/.`
 * `Table1.png`: Average Distance and Number of Nodes (musicians) in the network of genre influence.
 * `Table2.png`: The Result of Artist. This table shows the difference between Bob Dylan and his influncers in each musical feature.
-* `Table3.png`: The Rank of Artist.
-* `Table4.png`: Characteristics for Different Genres.
+* `Table3.png`: The Rank of Artist. Based on the anomalous value and eigenvector centrality of artists from Pop/Rock, we can find the order of preference by similarity to ideal situation (TOPSIS).
+* `Table4.png`: Characteristics for Different Genres. We judge whether their music is revolutionary by comparing the feature values of some bands in Table 3 and the whole pop / rock music.
