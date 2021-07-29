@@ -23,9 +23,9 @@ The dataset used in our case study can be found in the folder `./Data/.`
 The results figures are stored in the folder `./Figures/.`
 * `Figure1.png`: The Network of Genre Influence. Each node represents a musician. Each directed edge represents a pair of influencer-follower.
 * `Figure2.png`: The Network of New Age Music (left) and Jazz Music (right). 
-* `Figure3.png`: Linear Regression to verify small-world effect(left) and Count of Follower (right).
-* `Figure4.png`: Power Law Distribution.
-* `Figure5.png`: t-SNE of Cluster Result of Music Data.
+* `Figure3.png`: Linear Regression to verify small-world effect(left) and Count of Follower (right). We take the logarithm of the number of nodes and perform a linear regression with the average distance, making this figure.
+* `Figure4.png`: Power Law Distribution. We gain the number of followers and the number of nodes for each number of followers and plot in double logarithmic coordinates.
+* `Figure5.png`: t-SNE of Cluster Result of Music Data. We use BIRCH clustering algorithm to cluster the data and visualize the results.
 * `Figure6.png`: Heat Map of Genres and Characteristics.
 * `Figure7.png`: Visualization of Decision Tree.
 * `Figure8.png`: Time Series of Various Characteristics.
