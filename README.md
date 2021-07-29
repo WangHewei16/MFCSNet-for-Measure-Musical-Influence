@@ -36,12 +36,12 @@ The results figures are stored in the folder `./Figures/.`
 * `Figure13.png`: Visualization of Eigenvector Centrality. We can detect key node via eigenvector centrality.
 * `Figure14.png`: Change of Pop/Rock Artist Network (1960----1980----2000). 
 * `Figure15.png`: Time Series of Popularity.
-* `Figure16.png`: Time Series of Number of Communities and Average Degree.
-* `Figure17.png`: Time Series of Average Path Length and Average Cluster Coefficient.
-* `Figure18.png`: Average Danceability of Several Genres from 1925 to 1945.
+* `Figure16.png`: Time Series of Number of Communities and Average Degree. We use community detection algorithm to obtain these results.
+* `Figure17.png`: Time Series of Average Path Length and Average Cluster Coefficient between 1940 to 2020.
+* `Figure18.png`: Average Danceability of Several Genres from 1925 to 1945. 
 * `Figure19.png`: Release Counts of Several Genres from 1940 to 1945.
 * `Figure20.png`: Average of Acousticness by Year.
-* `Figure21.png`: The Boom of Pop/Rock Music (1950s-1960s-1980s). Yellow edge means that the follower is a Pop/Rock artist and blue is not. The yellow part gradually occupying the main stream illustrates the booming of Pop/Rock music.
+* `Figure21.png`: The Boom of Pop/Rock Music (1950s-1960s-1980s). Yellow edge means that the follower is a Pop/Rock artist and blue is not. The yellow part gradually occupying the main stream illustrates the booming of Pop/Rock music. 
 
 
 ### Tables
