@@ -26,10 +26,10 @@ The results figures are stored in the folder `./Figures/.`
 * `Figure3.png`: Linear Regression to verify small-world effect(left) and Count of Follower (right). We take the logarithm of the number of nodes and perform a linear regression with the average distance, making this figure.
 * `Figure4.png`: Power Law Distribution. We gain the number of followers and the number of nodes for each number of followers and plot in double logarithmic coordinates.
 * `Figure5.png`: t-SNE of Cluster Result of Music Data. We use BIRCH clustering algorithm to cluster the data and visualize the results.
-* `Figure6.png`: Heat Map of Genres and Characteristics.
-* `Figure7.png`: Visualization of Decision Tree.
-* `Figure8.png`: Time Series of Various Characteristics.
-* `Figure9.png`: Heat Map of Jaccard Similarity Coefficient Between Genres.
+* `Figure6.png`: Heat Map of Genres and Characteristics. Each grid in the figure represents the normalized average value of the corresponding characteristics of the corresponding genre.
+* `Figure7.png`: Visualization of Decision Tree. Using the decision tree, we can distinguish genres.
+* `Figure8.png`: Time Series of Various Characteristics. This figure shows the changes in the characteristics of major genres between 1920 and 2020.
+* `Figure9.png`: Heat Map of Jaccard Similarity Coefficient Between Genres. This figure relects the similarity between genres.
 * `Figure10.png`: Artists Network after Community Findings.
 * `Figure11.png`: Feature Importance.
 * `Figure12.png`: Network of Bob Dylan and Its Relative Artists.
