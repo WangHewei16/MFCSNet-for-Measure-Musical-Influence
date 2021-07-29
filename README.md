@@ -25,15 +25,15 @@ The results figures are stored in the folder `./Figures/.`
 * `Figure2.png`: The Network of New Age Music (left) and Jazz Music (right). 
 * `Figure3.png`: Linear Regression to verify small-world effect(left) and Count of Follower (right). We take the logarithm of the number of nodes and perform a linear regression with the average distance, making this figure.
 * `Figure4.png`: Power Law Distribution. We gain the number of followers and the number of nodes for each number of followers and plot in double logarithmic coordinates.
-* `Figure5.png`: t-SNE of Cluster Result of Music Data. We use BIRCH clustering algorithm to cluster the data and visualize the results.
+* `Figure5.png`: t-SNE of Cluster Result of Music Data. We use BIRCH clustering algorithm to cluster the data and visualize the result.
 * `Figure6.png`: Heat Map of Genres and Characteristics. Each grid in the figure represents the normalized average value of the corresponding characteristics of the corresponding genre.
 * `Figure7.png`: Visualization of Decision Tree. Using the decision tree, we can distinguish genres.
 * `Figure8.png`: Time Series of Various Characteristics. This figure shows the changes in the characteristics of major genres between 1920 and 2020.
 * `Figure9.png`: Heat Map of Jaccard Similarity Coefficient Between Genres. This figure relects the similarity between genres.
-* `Figure10.png`: Artists Network after Community Findings.
-* `Figure11.png`: Feature Importance.
-* `Figure12.png`: Network of Bob Dylan and Its Relative Artists.
-* `Figure13.png`: Visualization of Eigenvector Centrality.
+* `Figure10.png`: Artists Network after Community Findings. We use Louvain algorithm to find community and visualize the result.
+* `Figure11.png`: Feature Importance. We use the LightGBM as a machine learning tool to find the differences between the various characteristics of music in their influence.
+* `Figure12.png`: Network of Bob Dylan and Its Relative Artists. This figure shows artists that influnced Bob Dylan and others that followed him.
+* `Figure13.png`: Visualization of Eigenvector Centrality. 
 * `Figure14.png`: Change of Pop/Rock Artist Network (1960----1980----2000).
 * `Figure15.png`: Time Series of Popularity.
 * `Figure16.png`: Time Series of Number of Communities and Average Degree.
@@ -47,6 +47,6 @@ The results figures are stored in the folder `./Figures/.`
 ### Tables
 The results tables are stored in the folder `./Tables/.`
 * `Table1.png`: Average Distance and Number of Nodes (musicians) in the network of genre influence.
-* `Table2.png`: The Result of Artist.
+* `Table2.png`: The Result of Artist. This table shows the difference between Bob Dylan and his influncers in each musical feature.
 * `Table3.png`: The Rank of Artist.
 * `Table4.png`: Characteristics for Different Genres.
